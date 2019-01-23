@@ -1,7 +1,7 @@
 # MCM-Experience
 Share some personal experience in MCM (The Mathematical Contest in Modeling)
 
-It is basically written for those teams from International Campus, ZJU.
+It is basically written for those teams from International Campus, ZJU. It is more like some thoughts rather than "experience."
 
 Recently, I have been asked by many MCM/ICM participants about the experience in MCM 2018. Honestly speaking, I really don't have the so called "experience" you may expect. The most significant "experience" is that I met two nice teammates (Yifan Chen and Enyi Jiang) fortunately. Working as a team is very very important for this competition.
 
